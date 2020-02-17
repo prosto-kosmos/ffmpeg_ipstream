@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Application.cpp
+m:\study\!!nii\ffmpeg_ipstream\project\application\application.cpp(95): warning C4018: <: несоответствие типов со знаком и без знака
+m:\study\!!nii\ffmpeg_ipstream\project\application\application.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+m:\study\!!nii\ffmpeg_ipstream\project\application\application.cpp(118): warning C4018: <: несоответствие типов со знаком и без знака
+m:\study\!!nii\ffmpeg_ipstream\project\application\application.cpp(123): warning C4018: <: несоответствие типов со знаком и без знака
+  Application.vcxproj -> M:\study\!!nii\ffmpeg_ipstream\project\Debug\Application.exe
